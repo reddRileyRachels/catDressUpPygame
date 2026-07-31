@@ -20,4 +20,5 @@
 > * Randomize outfit button
 > * Reset button
 > * Clothing appearing on the character (in the correct order)
-> * Pixel art assets 
+> * Pixel art assets
+<img src="DressUpCatScreenshot.jpg" align="center" width="1000">
