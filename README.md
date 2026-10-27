@@ -15,7 +15,7 @@
 
 ## Running the Program
 
-### Install Pygame
+### 1.) Install Pygame
 
 windows:    
   &emsp;copy/paste in the terminal to install: pip install pygame   
@@ -25,9 +25,9 @@ Mac:
   &emsp;copy/paste in the terminal to install: pip install pygame: python3 -m pip install pygame   
   &emsp;copy/paste in the terminal to check if it's working. A minigame should run: python3 -m pygame.examples.aliens
     
-If any problems occur, visit: [https://github.com/pygame/pygame/](https://github.com/pygame/pygame)
+If any problems occur, visit the [Pygame GitHub](https://github.com/pygame/pygame) for more information.
 
-### Run main.py in your IDE or through the terminal
+### 2.) Run main.py in your IDE or through the terminal
    
 ## Project Status: Completed
 
