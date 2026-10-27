@@ -17,6 +17,8 @@
 
 ### 1.) Install Pygame
 
+Ensure Python is installed before attempting to install Pygame
+
 windows:    
   &emsp;copy/paste in the terminal to install: pip install pygame   
   &emsp;copy/paste in the terminal to check if it's working. A minigame should run: python -m pygame.examples.aliens
