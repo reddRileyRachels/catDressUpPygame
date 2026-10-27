@@ -11,7 +11,24 @@
 
 - Python
 - Pygame Library
-  
+- VS Code
+
+## Running the Program
+
+### Install Pygame
+
+windows:    
+  &emsp;copy/paste in the terminal to install: pip install pygame   
+  &emsp;copy/paste in the terminal to check if it's working. A minigame should run: python -m pygame.examples.aliens
+    
+Mac:    
+  &emsp;copy/paste in the terminal to install: pip install pygame: python3 -m pip install pygame   
+  &emsp;copy/paste in the terminal to check if it's working. A minigame should run: python3 -m pygame.examples.aliens
+    
+If any problems occur, visit: [https://github.com/pygame/pygame/](https://github.com/pygame/pygame)
+
+### Run main.py in your IDE or through the terminal
+   
 ## Project Status: Completed
 
 > Completed:
