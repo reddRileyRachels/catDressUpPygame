@@ -17,19 +17,28 @@
 
 ### 1.) Install Pygame
 
-Ensure Python is installed before attempting to install Pygame
+Ensure Python is installed before attempting to continue
 
-windows:    
-  &emsp;copy/paste in the terminal to install: pip install pygame   
-  &emsp;copy/paste in the terminal to check if it's working. A minigame should run: python -m pygame.examples.aliens
+**windows**    
+* copy/paste in the terminal to install: ```python -m pip install pygame```     
+* copy/paste in the terminal to test pygame (a minigame should run): ```python -m pygame.examples.aliens```     
     
-Mac:    
-  &emsp;copy/paste in the terminal to install: pip install pygame: python3 -m pip install pygame   
-  &emsp;copy/paste in the terminal to check if it's working. A minigame should run: python3 -m pygame.examples.aliens
-    
-If any problems occur, visit the [Pygame GitHub](https://github.com/pygame/pygame) for more information.
+**Mac**     
+* copy/paste in the terminal to install: ```python3 -m pip install pygame```     
+* copy/paste in the terminal to test Pygame (a minigame should run): ```python3 -m pygame.examples.aliens```      
 
-### 2.) Run main.py in your IDE or through the terminal
+**Troubleshooting**
+* If any problems occur with Pygame, please visit the [Pygame GitHub](https://github.com/pygame/pygame) for more information.
+
+### 2.) Run MainUI.py in your IDE or through the terminal
+
+**Windows**    
+* copy/paste in the terminal: ```python main.py```    
+
+**Mac**     
+* copy/paste in the terminal: ```python3 main.py```    
+
+Note: If any issues with the results display occur, arithmetic results can also be viewed in the terminal
    
 ## Project Status: Completed
 
