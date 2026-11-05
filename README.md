@@ -7,25 +7,27 @@
   This independent project was inspired by my childhood love of cats and dress-up flash games. All game assets are original pixel art and were designed and drawn by me for this project.
 </p>
 
-## Technologies
+### Technologies
 
 - Python
 - Pygame Library
 - VS Code
 
-## Running the Program
+### Running the Program
 
 ### 1.) Install Pygame
 
 Ensure Python is installed before attempting to continue
 
 **windows**    
-* copy/paste in the terminal to install: ```python -m pip install pygame```     
-* copy/paste in the terminal to test pygame (a minigame should run): ```python -m pygame.examples.aliens```     
+* Open a PowerShell terminal in the project directory
+* Run: ```python -m pip install pygame```        
+* Test Pygame with a minigame. Run: ```python -m pygame.examples.aliens```     
     
-**Mac**     
-* copy/paste in the terminal to install: ```python3 -m pip install pygame```     
-* copy/paste in the terminal to test Pygame (a minigame should run): ```python3 -m pygame.examples.aliens```      
+**Mac**    
+* Open a PowerShell terminal in the project directory
+* Run: ```python3 -m pip install pygame```     
+* Test Pygame with a minigame. Run:  ```python3 -m pygame.examples.aliens```     
 
 **Troubleshooting**
 * If any problems occur with Pygame, please visit the [Pygame GitHub](https://github.com/pygame/pygame) for more information.
@@ -33,10 +35,12 @@ Ensure Python is installed before attempting to continue
 ### 2.) Run MainUI.py in your IDE or through the terminal
 
 **Windows**    
-* copy/paste in the terminal: ```python main.py```    
+* Open a PowerShell terminal in the project directory
+* Run: ```python main.py```    
 
-**Mac**     
-* copy/paste in the terminal: ```python3 main.py```    
+**Mac**  
+* Open a PowerShell terminal in the project directory
+* Run: ```python3 main.py```    
 
 Note: If any issues with the results display occur, arithmetic results can also be viewed in the terminal
    
