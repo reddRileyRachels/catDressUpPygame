@@ -13,7 +13,7 @@
 - Pygame Library
 - VS Code
 
-### Running the Program
+## Running the Program
 
 ### 1.) Install Pygame
 
